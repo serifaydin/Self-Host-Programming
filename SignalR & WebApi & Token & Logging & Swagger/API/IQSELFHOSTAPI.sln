@@ -1,0 +1,223 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Admin.Entities", "IQSELFHOSTAPI.Admin.Entities\IQSELFHOSTAPI.Admin.Entities.csproj", "{6A5EB315-84B7-4D33-9592-2845B75A10E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Admin.NHEntitiesMapping", "IQSELFHOSTAPI.Admin.NHEntitiesMapping\IQSELFHOSTAPI.Admin.NHEntitiesMapping.csproj", "{D3A5F4FC-8525-4736-83E4-E858C6FF5A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Admin.IService", "IQSELFHOSTAPI.Admin.IService\IQSELFHOSTAPI.Admin.IService.csproj", "{ABF46B60-9AB0-404F-90BE-4297DD532EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.NHDatabase", "IQSELFHOSTAPI.NHDatabase\IQSELFHOSTAPI.NHDatabase.csproj", "{425E01A2-8754-4FB1-B45C-4128258F89FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.Entities", "IQSELFHOSTAPI.Company.Entities\IQSELFHOSTAPI.Company.Entities.csproj", "{E911EBB1-C1CE-4B56-A6A1-AD9712EB3611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.NHEntitiesMapping", "IQSELFHOSTAPI.Company.NHEntitiesMapping\IQSELFHOSTAPI.Company.NHEntitiesMapping.csproj", "{31AE4C8B-2AEF-4614-AA40-45A6E1306436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.IService", "IQSELFHOSTAPI.Company.IService\IQSELFHOSTAPI.Company.IService.csproj", "{DA58E6D4-6CB0-4D71-B675-5BC09D69FB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Admin.Service", "IQSELFHOSTAPI.Admin.Service\IQSELFHOSTAPI.Admin.Service.csproj", "{EEE46A50-8696-43C1-9A2F-63E9868A3EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Repository", "IQSELFHOSTAPI.Repository\IQSELFHOSTAPI.Repository.csproj", "{7A24FCF2-186B-4720-865A-D503205FD2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.Service", "IQSELFHOSTAPI.Company.Service\IQSELFHOSTAPI.Company.Service.csproj", "{35AC817F-0012-4F8F-82A2-962CA2818953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Admin.Manager", "IQSELFHOSTAPI.Admin.Manager\IQSELFHOSTAPI.Admin.Manager.csproj", "{D1A8B43D-DA04-4D61-A552-1F228930B2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.Manager", "IQSELFHOSTAPI.Company.Manager\IQSELFHOSTAPI.Company.Manager.csproj", "{FD7B5DAA-037F-477B-8F0F-AAE15FE04303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Helpers", "IQSELFHOSTAPI.Helpers\IQSELFHOSTAPI.Helpers.csproj", "{9ACB8988-BD25-404E-B630-E79DBC1E978C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Test", "IQSELFHOSTAPI.Test\IQSELFHOSTAPI.Test.csproj", "{C456E157-D1CE-47D2-AC0A-A3EE329BC863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.BackOfficeAPI", "IQSELFHOSTAPI.BackOfficeAPI\IQSELFHOSTAPI.BackOfficeAPI.csproj", "{F726E1C8-0120-47AD-96BB-1A93CA7DB179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.WFAManager", "IQSELFHOSTAPI.WFAManager\IQSELFHOSTAPI.WFAManager.csproj", "{FA3DD484-685C-4576-B3AB-17FCE07F61C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.BackOfficeAPI.JsonManager", "IQSELFHOSTAPI.BackOfficeAPI.JsonManager\IQSELFHOSTAPI.BackOfficeAPI.JsonManager.csproj", "{291BAA27-91EA-428E-ADE9-F2EA0B482DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Company.Entities.Validations", "IQSELFHOSTAPI.Company.Entities.Validations\IQSELFHOSTAPI.Company.Entities.Validations.csproj", "{4284F779-B4A7-4FDF-8DF4-F2F13D39581B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.SignalRClientManager", "IQSELFHOSTAPI.SignalRClientManager\IQSELFHOSTAPI.SignalRClientManager.csproj", "{6983962E-08AE-4085-87A7-E86B3D0C1519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Authenticator", "IQSELFHOSTAPI.Authenticator\IQSELFHOSTAPI.Authenticator.csproj", "{1D474490-D391-4597-A2FF-8D4EE35EF1F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseInfo", "DatabaseInfo\DatabaseInfo.csproj", "{ADB6AD9B-40BA-4CF9-825C-4398EFEAEFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQSELFHOSTAPI.Logging", "IQSELFHOSTAPI.Logging\IQSELFHOSTAPI.Logging.csproj", "{2DBF2D30-9CBC-484C-9B1F-0E683F47A50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5EB315-84B7-4D33-9592-2845B75A10E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5EB315-84B7-4D33-9592-2845B75A10E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5EB315-84B7-4D33-9592-2845B75A10E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5EB315-84B7-4D33-9592-2845B75A10E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A5F4FC-8525-4736-83E4-E858C6FF5A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A5F4FC-8525-4736-83E4-E858C6FF5A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A5F4FC-8525-4736-83E4-E858C6FF5A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A5F4FC-8525-4736-83E4-E858C6FF5A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF46B60-9AB0-404F-90BE-4297DD532EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF46B60-9AB0-404F-90BE-4297DD532EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF46B60-9AB0-404F-90BE-4297DD532EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF46B60-9AB0-404F-90BE-4297DD532EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425E01A2-8754-4FB1-B45C-4128258F89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425E01A2-8754-4FB1-B45C-4128258F89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425E01A2-8754-4FB1-B45C-4128258F89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425E01A2-8754-4FB1-B45C-4128258F89FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E911EBB1-C1CE-4B56-A6A1-AD9712EB3611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E911EBB1-C1CE-4B56-A6A1-AD9712EB3611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E911EBB1-C1CE-4B56-A6A1-AD9712EB3611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E911EBB1-C1CE-4B56-A6A1-AD9712EB3611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AE4C8B-2AEF-4614-AA40-45A6E1306436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AE4C8B-2AEF-4614-AA40-45A6E1306436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AE4C8B-2AEF-4614-AA40-45A6E1306436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AE4C8B-2AEF-4614-AA40-45A6E1306436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA58E6D4-6CB0-4D71-B675-5BC09D69FB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA58E6D4-6CB0-4D71-B675-5BC09D69FB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA58E6D4-6CB0-4D71-B675-5BC09D69FB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA58E6D4-6CB0-4D71-B675-5BC09D69FB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE46A50-8696-43C1-9A2F-63E9868A3EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE46A50-8696-43C1-9A2F-63E9868A3EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE46A50-8696-43C1-9A2F-63E9868A3EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE46A50-8696-43C1-9A2F-63E9868A3EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A24FCF2-186B-4720-865A-D503205FD2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A24FCF2-186B-4720-865A-D503205FD2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A24FCF2-186B-4720-865A-D503205FD2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A24FCF2-186B-4720-865A-D503205FD2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AC817F-0012-4F8F-82A2-962CA2818953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AC817F-0012-4F8F-82A2-962CA2818953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AC817F-0012-4F8F-82A2-962CA2818953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AC817F-0012-4F8F-82A2-962CA2818953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A8B43D-DA04-4D61-A552-1F228930B2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A8B43D-DA04-4D61-A552-1F228930B2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A8B43D-DA04-4D61-A552-1F228930B2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A8B43D-DA04-4D61-A552-1F228930B2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7B5DAA-037F-477B-8F0F-AAE15FE04303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7B5DAA-037F-477B-8F0F-AAE15FE04303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7B5DAA-037F-477B-8F0F-AAE15FE04303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7B5DAA-037F-477B-8F0F-AAE15FE04303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACB8988-BD25-404E-B630-E79DBC1E978C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACB8988-BD25-404E-B630-E79DBC1E978C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACB8988-BD25-404E-B630-E79DBC1E978C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACB8988-BD25-404E-B630-E79DBC1E978C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C456E157-D1CE-47D2-AC0A-A3EE329BC863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C456E157-D1CE-47D2-AC0A-A3EE329BC863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C456E157-D1CE-47D2-AC0A-A3EE329BC863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C456E157-D1CE-47D2-AC0A-A3EE329BC863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F726E1C8-0120-47AD-96BB-1A93CA7DB179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F726E1C8-0120-47AD-96BB-1A93CA7DB179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F726E1C8-0120-47AD-96BB-1A93CA7DB179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F726E1C8-0120-47AD-96BB-1A93CA7DB179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3DD484-685C-4576-B3AB-17FCE07F61C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3DD484-685C-4576-B3AB-17FCE07F61C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3DD484-685C-4576-B3AB-17FCE07F61C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3DD484-685C-4576-B3AB-17FCE07F61C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291BAA27-91EA-428E-ADE9-F2EA0B482DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291BAA27-91EA-428E-ADE9-F2EA0B482DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291BAA27-91EA-428E-ADE9-F2EA0B482DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291BAA27-91EA-428E-ADE9-F2EA0B482DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4284F779-B4A7-4FDF-8DF4-F2F13D39581B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4284F779-B4A7-4FDF-8DF4-F2F13D39581B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4284F779-B4A7-4FDF-8DF4-F2F13D39581B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4284F779-B4A7-4FDF-8DF4-F2F13D39581B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6983962E-08AE-4085-87A7-E86B3D0C1519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6983962E-08AE-4085-87A7-E86B3D0C1519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6983962E-08AE-4085-87A7-E86B3D0C1519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6983962E-08AE-4085-87A7-E86B3D0C1519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D474490-D391-4597-A2FF-8D4EE35EF1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D474490-D391-4597-A2FF-8D4EE35EF1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D474490-D391-4597-A2FF-8D4EE35EF1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D474490-D391-4597-A2FF-8D4EE35EF1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB6AD9B-40BA-4CF9-825C-4398EFEAEFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB6AD9B-40BA-4CF9-825C-4398EFEAEFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB6AD9B-40BA-4CF9-825C-4398EFEAEFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB6AD9B-40BA-4CF9-825C-4398EFEAEFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBF2D30-9CBC-484C-9B1F-0E683F47A50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBF2D30-9CBC-484C-9B1F-0E683F47A50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBF2D30-9CBC-484C-9B1F-0E683F47A50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBF2D30-9CBC-484C-9B1F-0E683F47A50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10EE02E4-8391-4D29-98AB-F916CC76FA1C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 23
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://echo-pos.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IQSELFHOSTAPI.Company.Entities.Validations\\IQSELFHOSTAPI.Company.Entities.Validations.csproj
+		SccProjectName1 = IQSELFHOSTAPI.Company.Entities.Validations
+		SccLocalPath1 = IQSELFHOSTAPI.Company.Entities.Validations
+		SccProjectUniqueName2 = IQSELFHOSTAPI.Company.Service\\IQSELFHOSTAPI.Company.Service.csproj
+		SccProjectName2 = IQSELFHOSTAPI.Company.Service
+		SccLocalPath2 = IQSELFHOSTAPI.Company.Service
+		SccProjectUniqueName3 = IQSELFHOSTAPI.Admin.Manager\\IQSELFHOSTAPI.Admin.Manager.csproj
+		SccProjectName3 = IQSELFHOSTAPI.Admin.Manager
+		SccLocalPath3 = IQSELFHOSTAPI.Admin.Manager
+		SccProjectUniqueName4 = IQSELFHOSTAPI.Admin.NHEntitiesMapping\\IQSELFHOSTAPI.Admin.NHEntitiesMapping.csproj
+		SccProjectName4 = IQSELFHOSTAPI.Admin.NHEntitiesMapping
+		SccLocalPath4 = IQSELFHOSTAPI.Admin.NHEntitiesMapping
+		SccProjectUniqueName5 = IQSELFHOSTAPI.Company.Manager\\IQSELFHOSTAPI.Company.Manager.csproj
+		SccProjectName5 = IQSELFHOSTAPI.Company.Manager
+		SccLocalPath5 = IQSELFHOSTAPI.Company.Manager
+		SccProjectUniqueName6 = IQSELFHOSTAPI.NHDatabase\\IQSELFHOSTAPI.NHDatabase.csproj
+		SccProjectName6 = IQSELFHOSTAPI.NHDatabase
+		SccLocalPath6 = IQSELFHOSTAPI.NHDatabase
+		SccProjectUniqueName7 = IQSELFHOSTAPI.Helpers\\IQSELFHOSTAPI.Helpers.csproj
+		SccProjectName7 = IQSELFHOSTAPI.Helpers
+		SccLocalPath7 = IQSELFHOSTAPI.Helpers
+		SccProjectUniqueName8 = IQSELFHOSTAPI.Company.NHEntitiesMapping\\IQSELFHOSTAPI.Company.NHEntitiesMapping.csproj
+		SccProjectName8 = IQSELFHOSTAPI.Company.NHEntitiesMapping
+		SccLocalPath8 = IQSELFHOSTAPI.Company.NHEntitiesMapping
+		SccProjectUniqueName9 = IQSELFHOSTAPI.Test\\IQSELFHOSTAPI.Test.csproj
+		SccProjectName9 = IQSELFHOSTAPI.Test
+		SccLocalPath9 = IQSELFHOSTAPI.Test
+		SccProjectUniqueName10 = IQSELFHOSTAPI.Admin.Service\\IQSELFHOSTAPI.Admin.Service.csproj
+		SccProjectName10 = IQSELFHOSTAPI.Admin.Service
+		SccLocalPath10 = IQSELFHOSTAPI.Admin.Service
+		SccProjectUniqueName11 = IQSELFHOSTAPI.BackOfficeAPI\\IQSELFHOSTAPI.BackOfficeAPI.csproj
+		SccProjectName11 = IQSELFHOSTAPI.BackOfficeAPI
+		SccLocalPath11 = IQSELFHOSTAPI.BackOfficeAPI
+		SccProjectUniqueName12 = IQSELFHOSTAPI.Company.Entities\\IQSELFHOSTAPI.Company.Entities.csproj
+		SccProjectName12 = IQSELFHOSTAPI.Company.Entities
+		SccLocalPath12 = IQSELFHOSTAPI.Company.Entities
+		SccProjectUniqueName13 = IQSELFHOSTAPI.Company.IService\\IQSELFHOSTAPI.Company.IService.csproj
+		SccProjectName13 = IQSELFHOSTAPI.Company.IService
+		SccLocalPath13 = IQSELFHOSTAPI.Company.IService
+		SccProjectUniqueName14 = IQSELFHOSTAPI.Repository\\IQSELFHOSTAPI.Repository.csproj
+		SccProjectName14 = IQSELFHOSTAPI.Repository
+		SccLocalPath14 = IQSELFHOSTAPI.Repository
+		SccProjectUniqueName15 = IQSELFHOSTAPI.Admin.IService\\IQSELFHOSTAPI.Admin.IService.csproj
+		SccProjectName15 = IQSELFHOSTAPI.Admin.IService
+		SccLocalPath15 = IQSELFHOSTAPI.Admin.IService
+		SccProjectUniqueName16 = IQSELFHOSTAPI.WFAManager\\IQSELFHOSTAPI.WFAManager.csproj
+		SccProjectName16 = IQSELFHOSTAPI.WFAManager
+		SccLocalPath16 = IQSELFHOSTAPI.WFAManager
+		SccProjectUniqueName17 = IQSELFHOSTAPI.BackOfficeAPI.JsonManager\\IQSELFHOSTAPI.BackOfficeAPI.JsonManager.csproj
+		SccProjectName17 = IQSELFHOSTAPI.BackOfficeAPI.JsonManager
+		SccLocalPath17 = IQSELFHOSTAPI.BackOfficeAPI.JsonManager
+		SccProjectUniqueName18 = IQSELFHOSTAPI.Admin.Entities\\IQSELFHOSTAPI.Admin.Entities.csproj
+		SccProjectName18 = IQSELFHOSTAPI.Admin.Entities
+		SccLocalPath18 = IQSELFHOSTAPI.Admin.Entities
+		SccProjectUniqueName19 = IQSELFHOSTAPI.SignalRClientManager\\IQSELFHOSTAPI.SignalRClientManager.csproj
+		SccProjectName19 = IQSELFHOSTAPI.SignalRClientManager
+		SccLocalPath19 = IQSELFHOSTAPI.SignalRClientManager
+		SccProjectUniqueName20 = IQSELFHOSTAPI.Authenticator\\IQSELFHOSTAPI.Authenticator.csproj
+		SccProjectName20 = IQSELFHOSTAPI.Authenticator
+		SccLocalPath20 = IQSELFHOSTAPI.Authenticator
+		SccProjectUniqueName21 = DatabaseInfo\\DatabaseInfo.csproj
+		SccProjectName21 = DatabaseInfo
+		SccLocalPath21 = DatabaseInfo
+		SccProjectUniqueName22 = IQSELFHOSTAPI.Logging\\IQSELFHOSTAPI.Logging.csproj
+		SccProjectName22 = IQSELFHOSTAPI.Logging
+		SccLocalPath22 = IQSELFHOSTAPI.Logging
+	EndGlobalSection
+EndGlobal
